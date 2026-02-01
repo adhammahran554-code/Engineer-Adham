@@ -7,6 +7,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="OOP" src="https://img.shields.io/badge/-OOP-8A2BE2?style=flat-square" />
   <img alt="Data Structures" src="https://img.shields.io/badge/-Data_Structures-FF8C00?style=flat-square" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-4DB33D?style=flat-square" />
@@ -38,7 +39,7 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/adhammahran554-code" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adham-mahran" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adham-mahran" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">This <i>README</i> is your personal showcase of skills and projects!</p>
