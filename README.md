@@ -11,6 +11,7 @@
   <img alt="OOP" src="https://img.shields.io/badge/-OOP-8A2BE2?style=flat-square" />
   <img alt="Data Structures" src="https://img.shields.io/badge/-Data_Structures-FF8C00?style=flat-square" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-4DB33D?style=flat-square" />
+  <img alt="Problem Solving" src="https://img.shields.io/badge/-Problem_Solving-FF1493?style=flat-square" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -28,17 +29,17 @@
   <tbody>
     <tr>
       <td><a href="#"><b>Project 1</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/USERNAME/PROJECT1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/USERNAME/PROJECT1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/USERNAME/PROJECT1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/USERNAME/PROJECT1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Adham.Mahran67/PROJECT1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Adham.Mahran67/PROJECT1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Adham.Mahran67/PROJECT1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adham.Mahran67/PROJECT1?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/adhammahran554-code" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/Adham.Mahran67" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adham-mahran" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adhammahran554@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/adhammahran554" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%230068C8?style=for-the-badge&logo=telegram&logoColor=white" /></a>
